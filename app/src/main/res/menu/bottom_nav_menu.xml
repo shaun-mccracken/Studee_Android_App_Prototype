@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/Groups"
+        android:icon="@drawable/ic_group_black_24dp"
+        android:title="Groups" />
+    <item
+        android:id="@+id/Messages"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="Messages" />
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="Profile" />
+</menu>
